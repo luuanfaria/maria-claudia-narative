@@ -5,7 +5,7 @@ module.exports = {
     siteUrl: `https://novela.narative.co`,
     description: `Portfolio profissional Maria Claudia`,
     hero: {
-      heading: `Página profissinal, encontre publicações e projetos acadêmicos.`,
+      heading: `Página profissional, encontre publicações e projetos acadêmicos.`,
       maxWidth: 652,
       fontSize: 25,
     },
