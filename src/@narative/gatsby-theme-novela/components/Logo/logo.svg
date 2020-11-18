@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="512" height="118" viewBox="0 0 512 118">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-5 {
+        font-size: 100px;
+      }
+
+      .cls-2, .cls-4 {
+        fill: #575755;
+      }
+
+      .cls-2, .cls-4, .cls-5, .cls-6 {
+        font-family: "Gadugi-Bold";
+        font-weight: bold;
+      }
+
+      .cls-3, .cls-4, .cls-6 {
+        font-size: 70px;
+      }
+
+      .cls-5, .cls-6 {
+        fill: #333;
+      }
+    </style>
+  </defs>
+  <text x="4" y="93" class="cls-1"><tspan class="cls-2">M</tspan></text>
+  <text x="98" y="93" class="cls-3"><tspan class="cls-4">aria</tspan></text>
+  <text x="236" y="93" class="cls-1"><tspan class="cls-5">C</tspan></text>
+  <text x="302" y="93" class="cls-3"><tspan class="cls-6">laudia</tspan></text>
+</svg>

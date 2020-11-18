@@ -1,33 +1,22 @@
 module.exports = {
   siteMetadata: {
-    title: `Novela by Narative`,
-    name: `Narative`,
+    title: `Maria Claudia`,
+    name: `Maria Claudia`,
     siteUrl: `https://novela.narative.co`,
-    description: `This is my description that will be used in the meta tags and important for search results`,
+    description: `Portfolio profissional Maria Claudia`,
     hero: {
-      heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
+      heading: `Página profissinal, encontre publicações e projetos acadêmicos.`,
       maxWidth: 652,
+      fontSize: 25,
     },
     social: [
       {
-        name: `twitter`,
-        url: `https://twitter.com/narative`,
-      },
-      {
-        name: `github`,
-        url: `https://github.com/narative`,
-      },
-      {
-        name: `instagram`,
-        url: `https://instagram.com/narative.co`,
+        name: `lattes`,
+        url: `http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4796270A6`,
       },
       {
         name: `linkedin`,
-        url: `https://www.linkedin.com/company/narative/`,
-      },
-      {
-        name: `dribbble`,
-        url: `https://dribbble.com/narativestudio`,
+        url: `https://www.linkedin.com/in/maria-claudia-castro-52741a18/`,
       },
     ],
   },
@@ -48,8 +37,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Novela by Narative`,
-        short_name: `Novela`,
+        name: `Maria Claudia`,
+        short_name: `Maria Claudia`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#fff`,
